@@ -1,6 +1,3 @@
 # eksempelrepo-1
 
----
-
-Eksempelrepo til Git-kurs 🎉
-
+Eksempelrepo til git-kurs!
